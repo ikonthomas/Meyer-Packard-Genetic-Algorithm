@@ -285,14 +285,4 @@ if __name__ == '__main__':
     x.weighted_random_choice()
     x.uniformCross(MutationRate)
     x.printChromosomes()
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
+
