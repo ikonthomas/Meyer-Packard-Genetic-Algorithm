@@ -1,4 +1,4 @@
-# Meyer-Packard-Genetic-Algorithm
+# Meyer-Packard-Genetic-Algorithm.
 Meyer Packard Genetic Algorithm in Python
 
 # Stock Market Analysis
